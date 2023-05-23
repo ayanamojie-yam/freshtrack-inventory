@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-
+// ako si mark
 export default function Home() {
   return (
     <div className="flex min-h-screen flex-row items-center justify-center gap-20 bg-white">
